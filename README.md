@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xeyyamhesenov&label=Profile%20views&color=0e75b6&style=flat" alt="xeyyamhesenov" /> </p>
 
-- 🔭 I’m currently working on -- OSA (Online Study Academy) – An innovative educational platform. [OSA (Online Study Academy)](osa.az)
+- 🔭 I’m currently working on -- OSA (Online Study Academy) – An innovative educational platform. [OSA.az](osa.az)
 
-- 🌱 I’m currently learning **Digital content creation Marketing for online platforms Community building**
+- 🌱 I’m currently learning **Web development, digital content creation, and marketing strategies for online platforms. I'm also exploring network systems and social media engagement.**
 
-- A creative hub focused on tech products and solutions.- **Synex**
+- A creative hub focused on tech products and solutions.- [SYNEX](https://www.instagram.com/synex.az/)
 
 - 📫 How to reach me **xeyyam.hesenov.2000@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/xeyyam-hesenov-18b72a353/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/xeyyam-hesenov-18b72a353/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/xeyyam-hesenov-18b72a353/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xeyyam-hesenov-18b72a353/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/xeyyamhesenov_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/xeyyamhesenov_official/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@_xeyyamhesenov_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@_xeyyamhesenov_" height="30" width="40" /></a>
 </p>
