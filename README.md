@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/xeyyam-hesenov-18b72a353/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xeyyam-hesenov-18b72a353/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/xeyyamhesenov_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/xeyyamhesenov_official/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@_xeyyamhesenov_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@_xeyyamhesenov_" height="30" width="40" /></a>
+<a href="https://instagram.com/xeyyamhesenov_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xeyyamhesenov_official/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@_xeyyamhesenov_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@_xeyyamhesenov_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
