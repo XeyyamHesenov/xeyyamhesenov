@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/xeyyamhesenov_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xeyyamhesenov_official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/xeyyamhesenov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xeyyamhesenov" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@_XeyyamHesenov_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xeyyamhesenov" height="30" width="40" /></a>
 <a href="https://discord.gg/.xeyyam." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".xeyyam." height="30" width="40" /></a>
 </p>
 
