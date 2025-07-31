@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xeyyamhesenov&label=Profile%20views&color=0e75b6&style=flat" alt="xeyyamhesenov" /> </p>
 
-- 🔭 I’m currently working on -- OSA (Online Study Academy) – An innovative educational platform. [OSA.az](osa.az)
+- 🔭 I’m currently working on -- OSA (Online Study Academy) – An innovative educational platform. [OSA.az](https://www.osa.az)
 
 - 🌱 I’m currently learning **Web development, digital content creation, and marketing strategies for online platforms. I'm also exploring network systems and social media engagement.**
 
