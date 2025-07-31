@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on- [OSA (Online Study Academy)](https://osa.az/)
 
-**🌱 I’m currently learning to create video content for social media accounts.🎥📱**
+- **🌱 I’m currently learning to create video content for social media accounts.🎥📱**
 
 - 💬 Ask me about **Networking, data transfer, network architecture**
 
