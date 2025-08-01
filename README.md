@@ -28,4 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeyyamhesenov&show_icons=true&locale=en" alt="xeyyamhesenov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xeyyamhesenov&" alt="xeyyamhesenov" /></p>
-<img src="https://raw.githubusercontent.com/xeyyamhesenov/xeyyamhesenov/output/snake.svg" width = 1500 alt="Snake animation" />
+![snake gif](https://github.com/xeyyamhesenov/xeyyamhesenov/blob/output/github-snake-dark.svg)
+
